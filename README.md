@@ -503,10 +503,11 @@ Program:
 
 # Gelecekte Eklenebilecek Özellikler
 
+# Gelecekte Eklenebilecek Özellikler
+
 - Dark Mode
 - Cookie desteği
 - Playlist desteği
-- Toplu indirme sistemi
 - İndirmeyi durdur/devam ettir
 - Drag & Drop
 - EXE dönüştürme
@@ -516,6 +517,11 @@ Program:
 - Log sistemi
 - Hata kayıt sistemi
 - Tema desteği
+- Otomatik güncelleme sistemi
+- Proxy desteği
+- Bildirim sistemi
+- Özel kullanıcı ajanı yönetimi
+- Batch export sistemi
 
 ---
 
