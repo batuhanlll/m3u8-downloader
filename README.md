@@ -503,8 +503,6 @@ Program:
 
 # Gelecekte Eklenebilecek Özellikler
 
-# Gelecekte Eklenebilecek Özellikler
-
 - Dark Mode
 - Cookie desteği
 - Playlist desteği
